@@ -1,6 +1,4 @@
-# 책장(2024)
-
-<br/>
+# Bookshelf(2024)
 
 <img src="./book.png" style="width: 100%;"/>
 
