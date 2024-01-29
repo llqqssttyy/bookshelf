@@ -2,7 +2,9 @@
 
 독서를 기록하는 저장소 📚
 
-![](./book.png)
+<img src="./book.png" style="width: 100%;"/>
+
+<br/>
 
 <br/>
 
